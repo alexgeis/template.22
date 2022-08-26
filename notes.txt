@@ -1,1 +1,2 @@
-npm install --save-dev css-loader dotenv-webpack eslint eslint-config-airbnb-base eslint-plugin-import gh-pages html-loader html-webpack-plugin node-sass path sass-loader style loader webpack webpack-cli webpack-dev-server
+// INSTALL CLI
+npm install --save-dev css-loader dotenv-webpack eslint eslint-config-airbnb-base eslint-plugin-import gh-pages html-loader html-webpack-plugin mini-css-extract-plugin node-sass path sass-loader style-loader webpack webpack-cli webpack-dev-server
